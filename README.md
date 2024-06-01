@@ -1,6 +1,6 @@
 XposedInstaller
 ===============
-[![Build Status](https://travis-ci.org/DVDAndroid/XposedInstaller.svg?branch=material)](https://travis-ci.org/DVDAndroid/XposedInstaller)
+[![Android CI Status](https://github.com/428571c/LegacyXposedInstaller/workflows/Android%20CI/badge.svg)](https://github.com/428571c/LegacyXposedInstaller/actions)
 
 This is a materialised version of Xposed Installer
 
