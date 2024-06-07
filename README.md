@@ -3,7 +3,7 @@ XposedInstaller
 [![Android CI Status](https://github.com/428571c/LegacyXposedInstaller/workflows/Android%20CI/badge.svg)](https://github.com/428571c/LegacyXposedInstaller/actions)
 
 This is a materialised version of Xposed Installer
-
+[![Get it on Github](https://raw.githubusercontent.com/428571c/LegacyXposedInstaller/master/get-it-on-github.png)](https://github.com/428571c/LegacyXposedInstaller/releases)
 [Show this project on XDA](http://forum.xda-developers.com/xposed/material-design-xposed-installer-t3137758)
 
 Credits
